@@ -1,6 +1,6 @@
 # VES MEGASTORE
 
-Ves Megastore is suited for digital store, computer store, mobile store, TV store, camera store, machine store, tool store.
+[Ves Megastore](http://www.venustheme.com/theme/ves-megastore/) is suited for digital store, computer store, mobile store, TV store, camera store, machine store, tool store.
 
 Ves Megastore help to show products with it’s best advantage. Modern and responsive design will draw customer attention for the first time. Neat and clean layout show items more attractively.
 
